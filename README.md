@@ -1,2 +1,2 @@
-#### [Demo](https://vigorous-dijkstra-18dce8.netlify.app)
-#### [Codepen](https://codepen.io/hzndr/full/eYgXdMP)
+#### [Demo](https://silly-kalam-d93f19.netlify.app/)
+
